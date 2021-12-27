@@ -51,19 +51,19 @@ $(document).ready(function () {
 
     var project_array = [
         `<a href="https://play.google.com/store/apps/details?id=com.entitydev.wallhavener"  target="_blank" rel="noopener noreferrer">
-        <img width="80px" src="icons/wallhavener.png">
+        <img height="80px" src="icons/wallhavener.png">
         </a>
         <b>Wallhavener</b>
         Wallpaper App using Flutter and wallhaven.cc API`,
 
         `<a href="https://askit.netlify.app"  target="_blank" rel="noopener noreferrer">
-        <img width="80px" src="icons/askit.png">
+        <img height="80px" src="icons/askit.png">
         </a>
         <b>Askit</b>
         Survey conducting website using Firebase Database`,
 
         `<a href="https://clipper.netlify.app"  target="_blank" rel="noopener noreferrer">
-        <img width="80px" src="icons/clipper.png">
+        <img height="80px" src="icons/clipper.png">
         </a>
         <b>Clipper</b>
         Public clipboard website for sharing texts/links online`,
