@@ -213,11 +213,12 @@ p {
 }
 
 .bar-border {
-    border: 1px solid #fefefe;
+    box-shadow: 0px 0px 0px 1px #fefefe;
     margin-bottom: 14px;
     width: 100%;
 }
 
 .bar-fill {
     background-color: #fefefe;
+
 }
